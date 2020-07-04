@@ -1,0 +1,35 @@
+<div class="footer">
+      <div class="footer-logo">C21-CODERS - All rights reserved</div>
+      <div class="footer-list">
+        <ul>
+          <li><a href="https://www.facebook.com/" target="_blank"><img src="images/icon-facebook.png" width="25" height="20"></a></li>
+          <li><a href="https://www.instagram.com/" target="_blank"><img src="images/icon-instagram.png" width="25" height="20"></a></li>
+          <li><a href="https://twitter.com/explore" target="_blank"><img src="images/icon-twitter.png" width="25" height="20"></li>
+        </ul>
+      </div>
+    </div>
+[11:58 PM]
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 50px;
+  padding: 2px;
+}
+
+.footer-logo {
+  float: left;
+  padding: 15px;
+}
+
+.footer-list {
+  float: right;
+  padding: 2px;
+}
+
+.footer-list ul {
+  display: inline-block;
+}
+
+.footer-list a {
+  padding-right: 1px;
+}
